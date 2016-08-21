@@ -98,3 +98,8 @@
 	});
 
 })(jQuery);
+
+function sendEmail() {
+
+    window.open('mailto:khubieva.dinara@gmail.com');
+}
