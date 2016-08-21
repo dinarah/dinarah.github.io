@@ -2040,6 +2040,10 @@
 				ul.icons.major li {
 					padding-right: 3.5em;
 				}
+/*Added*/
+				ul.features p {
+					color:rgb(69, 74, 79);
+				}
 
 					@media screen and (max-width: 736px) {
 
